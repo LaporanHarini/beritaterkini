@@ -9,7 +9,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-minifier
   - jekyll-amp
-  - jekyll-compress
+  - jekyll-compress-images
 
 exclude:
   - README.md
