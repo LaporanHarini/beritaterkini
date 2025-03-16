@@ -8,5 +8,4 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "minima"
   gem "webrick"
-
 end
