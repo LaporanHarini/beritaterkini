@@ -7,6 +7,9 @@ baseurl: "/beritaterkini"  # Jika ada di subfolder
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-minifier
+  - jekyll-amp
+  - jekyll-compress
 
 exclude:
   - README.md
