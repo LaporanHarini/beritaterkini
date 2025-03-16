@@ -8,4 +8,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "minima"
   gem "webrick"
+  gem "jekyll-minifier"
+  gem "jekyll-amp"
+  gem "jekyll-compress-images"
+
 end
